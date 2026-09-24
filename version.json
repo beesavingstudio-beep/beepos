@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0",
-  "latestBuild": 1,
+  "latestVersion": "1.0.1",
+  "latestBuild": 2,
   "minimumBuild": 1,
   "forceUpdate": false,
   "downloadUrl": "https://beesavingstudio-beep.github.io/beepos/",
-  "releaseNotes": "Rilis pertama BeePOS v1.0.0."
+  "releaseNotes": "Pengujian pembaruan otomatis BeePOS."
 }
